@@ -1,0 +1,14 @@
+.container {
+    margin: 30px;
+    position: relative;
+}
+
+.radio-container {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.text-container {
+    display: inline-block;
+    text-align: center;
+}
